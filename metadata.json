@@ -1,0 +1,6 @@
+{
+  "name": "Amanah Keluarga — Game PAI SD Kelas 3",
+  "description": "Permainan edukatif petualangan anak sholeh tentang bakti, adab, dan kasih sayang keluarga dalam Pendidikan Agama Islam untuk siswa SD Kelas 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
